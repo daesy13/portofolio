@@ -1,0 +1,23 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "**Feature 1** Number and name of feature:  **Feature #1: Refactor the CSS**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daesy13/portofolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daesy13/portofolio/issues"
+  },
+  "homepage": "https://github.com/daesy13/portofolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

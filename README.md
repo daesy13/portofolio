@@ -22,3 +22,15 @@ Start time: _____
 Finish time: _____
 
 Actual time needed to complete: _____
+
+# LAB-05a
+
+Number and name of feature: Add functionality
+
+Estimate of time needed to complete: 1hr
+
+Start time: 9:45am
+
+Finish time: 10:45am
+
+Actual time needed to complete: _____
