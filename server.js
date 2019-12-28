@@ -6,11 +6,11 @@ const express = require('express');
 const app = express();
 
 // send statics websites from this folder
-app.use(express.static('/index.html'));
+app.use(express.static('./index.html'));
 
 // ROUTES are the addresss/locations that respond to a request
 app.get('/gingerkisses', function(request, response){
-  response.sendFile(__dirname + 'index.html');
+  response.sendFile(__dirname + './index.html');
 });
 
 const PORT = process.env.PORT  || 3000;
