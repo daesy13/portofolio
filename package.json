@@ -2,7 +2,7 @@
   "name": "portofolio",
   "version": "1.0.0",
   "description": "**Feature 1** Number and name of feature:  **Feature #1: Refactor the CSS**",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
