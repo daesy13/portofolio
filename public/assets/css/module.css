@@ -317,21 +317,22 @@ ul.icons {
   }
 
     #main > section.dark {
-      color: #ddd;
-      color: rgba(255, 255, 255, 0.75);
+      font-family: 'Archivo Black', sans-serif;
+      color: white;
     }
 
       #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
         color: inherit;
+        font-family: 'Archivo Black', sans-serif;
       }
 
       #main > section.dark strong {
-        color: #fff;
+        color: white;
         border-color: inherit;
       }
 
       #main > section.dark a {
-        color: #fff;
+        color: white;
         border-color: inherit;
       }
 
